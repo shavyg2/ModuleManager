@@ -50,10 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModuleSelector.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ModuleSelector.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ModuleSelector.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="6" selection-start="2261" selection-end="2261" vertical-scroll-proportion="0.85544217" vertical-offset="1129" max-vertical-offset="1819">
+            <state line="72" column="0" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0" vertical-offset="1129" max-vertical-offset="1819">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="31" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.94214875" vertical-offset="389" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -82,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/ModuleSelector.js" />
         <option value="$PROJECT_DIR$/src/ModuleCompare.js" />
         <option value="$PROJECT_DIR$/test/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -203,11 +213,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30456027" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30456027" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25755286" sideWeight="0.4979592" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25755286" sideWeight="0.4979592" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25755286" sideWeight="0.5020408" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -415,7 +425,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ModuleSelector.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="6" selection-start="2261" selection-end="2261" vertical-scroll-proportion="0.85544217" vertical-offset="1129" max-vertical-offset="1819">
+        <state line="72" column="0" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0" vertical-offset="1129" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="31" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.94214875" vertical-offset="389" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
